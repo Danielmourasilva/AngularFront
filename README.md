@@ -33,6 +33,6 @@ Este é um aplicativo de e-commerce de livros usando Angular.
 
 ```bash
    # Clona o repositório
-   $ git clone 
+   $ git clone  https://github.com/Danielmourasilva/AngularFront.git
    # Entre na pasta do projeto
 livraria       $ cd
